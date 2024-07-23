@@ -19,7 +19,6 @@
     source $tclDir/placement.tcl
     source $tclDir/identical.tcl
     source $tclDir/implement_other.tcl
-    source $tclDir/get_fpga_arch.tcl
     source $tclDir/board_utils.tcl
     source $tclDir/results_utils.tcl
     source $tclDir/find_position_utils.tcl
